@@ -1,3 +1,5 @@
+{
+  "mangas": [
     {
       "cover": "https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/67752008_414520429162663_3949950743456251904_n.png?_nc_cat=101&_nc_sid=85a577&_nc_ohc=Sz7h7te3aVsAX-0kEMS&_nc_ht=scontent-frt3-2.xx&oh=d6ee99c935d840e5578db32f04daa463&oe=5F51E19B",
       "mJLink": "http://k.imanga.co/mangakakalot/mangas/Tales%20of%20Demons%20and%20Gods/detail.gz",
@@ -9,4 +11,6 @@
       "rn": "30000",
       "latest": "287"
     }
-  
+  ]
+}
+
