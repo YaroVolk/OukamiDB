@@ -1,0 +1,275 @@
+{
+    "mangas": [
+        {
+            "cover": "http://imanga.co/cover/af75bc913ec9adf2.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Tales%20of%20Demons%20and%20Gods/detail.gz",
+            "r": "4.64",
+            "name": "Tales of Demons and Gods",
+            "isOn": true,
+            "rn": "30000",
+            "latest": "298.5"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/13/f/16-1583493949.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Apotheosis/detail.gz",
+            "r": "4.63",
+            "name": "Apotheosis",
+            "isOn": true,
+            "rn": "29998",
+            "latest": "648"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/32/i/14-1583490877.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Star%20Martial%20God%20Technique/detail.gz",
+            "r": "4.64",
+            "name": "Star Martial God Technique",
+            "isOn": true,
+            "rn": "29997",
+            "latest": "391"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/20/b/16-1583494192.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Martial%20Peak/detail.gz",
+            "r": "4.67",
+            "name": "Martial Peak",
+            "isOn": true,
+            "rn": "29996",
+            "latest": "739"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/33/a/16-1583494657.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Versatile%20Mage/detail.gz",
+            "r": "4.5",
+            "name": "Versatile Mage",
+            "isOn": true,
+            "rn": "29995",
+            "latest": "600"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/19/e/1-1583464448.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Tomo-chan%20wa%20Onnanoko/detail.gz",
+            "r": "4.58",
+            "name": "Tomo-chan wa Onnanoko!",
+            "isOn": false,
+            "rn": "29993",
+            "latest": "953.6"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/5/a/16-1583493642.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/God%20of%20Martial%20Arts/detail.gz",
+            "r": "4.64",
+            "name": "God of Martial Arts",
+            "isOn": true,
+            "rn": "29992",
+            "latest": "123.3"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/19/o/19-1583499863.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Rebirth%20Of%20The%20Urban%20Immortal%20Cultivator/detail.gz",
+            "r": "4.32",
+            "name": "Rebirth Of The Urban Immortal Cultivator",
+            "isOn": true,
+            "rn": "29990",
+            "latest": "492"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/6/a/1-1583463897.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Hajime%20no%20Ippo/detail.gz",
+            "r": "4.51",
+            "name": "Hajime no Ippo",
+            "isOn": true,
+            "rn": "29980",
+            "latest": "1317"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/2/m/17-1583495350.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Spirit%20Sword%20Sovereign/detail.gz",
+            "r": "4.49",
+            "name": "Spirit Sword Sovereign",
+            "isOn": true,
+            "rn": "29979",
+            "latest": "344"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/46/q/15-1583493344.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Tang%20Yin%20Zai%20Yi%20Jie/detail.gz",
+            "r": "4.58",
+            "name": "Tang Yin Zai Yi Jie",
+            "isOn": true,
+            "rn": "29977",
+            "latest": "378"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/29/d/1-1583464836.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Tamen%20De%20Gushi/detail.gz",
+            "r": "4.7",
+            "name": "Tamen De Gushi",
+            "isOn": true,
+            "rn": "29970",
+            "latest": "201"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/21/k/1-1583464539.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/19%20Days/detail.gz",
+            "r": "4.67",
+            "name": "19 Days",
+            "isOn": true,
+            "rn": "29966",
+            "latest": "337"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/16/a/18-1583497713.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Metropolitan%20System/detail.gz",
+            "r": "4.48",
+            "name": "Metropolitan System",
+            "isOn": true,
+            "rn": "29965",
+            "latest": "354"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/19/y/2-1583466482.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Tensei%20Shitara%20Slime%20Datta%20Ken/detail.gz",
+            "r": "4.84",
+            "name": "Tensei Shitara Slime Datta Ken",
+            "isOn": true,
+            "rn": "29964",
+            "latest": "75"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/13/m/16-1583493958.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Hero%20I%20Quit%20A%20Long%20Time%20Ago./detail.gz",
+            "r": "4.56",
+            "name": "Hero? I Quit A Long Time Ago.",
+            "isOn": true,
+            "rn": "29963",
+            "latest": "229"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/43/w/1-1583465436.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/The%20Mythical%20Realm/detail.gz",
+            "r": "4.43",
+            "name": "The Mythical Realm",
+            "isOn": true,
+            "rn": "29962",
+            "latest": "207.2"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/15/x/18-1583497709.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Martial%20Master/detail.gz",
+            "r": "4.53",
+            "name": "Martial Master",
+            "isOn": true,
+            "rn": "29961",
+            "latest": "435"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/38/o/3-1583469192.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Nanatsu%20no%20Taizai/detail.gz",
+            "r": "4.55",
+            "name": "Nanatsu no Taizai",
+            "isOn": true,
+            "rn": "29960",
+            "latest": "346.5"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/47/t/15-1583493384.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Volcanic%20Age/detail.gz",
+            "r": "4.82",
+            "name": "Volcanic Age",
+            "isOn": true,
+            "rn": "29958",
+            "latest": "146"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/50/v/15-1583493491.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Isekai%20Nonbiri%20Nouka/detail.gz",
+            "r": "4.66",
+            "name": "Isekai Nonbiri Nouka",
+            "isOn": true,
+            "rn": "29953",
+            "latest": "130"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/5/y/2-1583465921.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Kengan%20Ashua/detail.gz",
+            "r": "4.7",
+            "name": "Kengan Ashua",
+            "isOn": true,
+            "rn": "29951",
+            "latest": "236.5"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/31/g/15-1583492700.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Mairimashita%20Iruma-kun/detail.gz",
+            "r": "4.8",
+            "name": "Mairimashita! Iruma-kun",
+            "isOn": true,
+            "rn": "29950",
+            "latest": "165"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/24/p/1-1583464662.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Kaguya-sama%20wa%20Kokurasetai%20-%20Tensai-tachi%20no%20Renai%20Zunousen/detail.gz",
+            "r": "4.82",
+            "name": "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen",
+            "isOn": true,
+            "rn": "29949",
+            "latest": "205"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/31/v/1-1583464947.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Soul%20Land/detail.gz",
+            "r": "4.7",
+            "name": "Soul Land",
+            "isOn": true,
+            "rn": "29948",
+            "latest": "263"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/39/b/3-1583469211.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Spirit%20Blade%20Mountain/detail.gz",
+            "r": "4.57",
+            "name": "Spirit Blade Mountain",
+            "isOn": true,
+            "rn": "29942",
+            "latest": "445"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/31/x/18-1583498321.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Player%20Reborn/detail.gz",
+            "r": "4.46",
+            "name": "Player Reborn",
+            "isOn": true,
+            "rn": "29941",
+            "latest": "194"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/29/q/15-1583492557.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Kumo%20desu%20ga%2C%20nani%20ka/detail.gz",
+            "r": "4.81",
+            "name": "Kumo desu ga, nani ka?",
+            "isOn": true,
+            "rn": "29940",
+            "latest": "47.1"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/31/x/1-1583464949.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Douluo%20Dalu%20II%20-%20Jueshui%20Tangmen/detail.gz",
+            "r": "4.75",
+            "name": "Douluo Dalu II - Jueshui Tangmen",
+            "isOn": true,
+            "rn": "29937",
+            "latest": "227"
+        },
+        {
+            "cover": "https://avt.mkklcdnv6.com/18/c/17-1583495914.jpg",
+            "mJLink": "http://k.imanga.co/mangakakalot/mangas/Hunter%20Age/detail.gz",
+            "r": "4.13",
+            "name": "Hunter Age",
+            "isOn": true,
+            "rn": "29934",
+            "latest": "240"
+        }
+    ],
+    "nextLink": "http://k.imanga.co/mangakakalot/tags/Most%20Popular/p1.gz"
+}
